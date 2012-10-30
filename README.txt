@@ -1,0 +1,1 @@
+This library is simply for analytical purposes, and never fully functioned due to encoding/decoding errors caused by the source game engine or the lua layer
